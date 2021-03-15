@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "097f306cd7777eaf4e1b62bc101063f6",
+    "revision": "4f1816aa77cc2b9fe2c51317913716a5",
     "url": "/swift-study-group-indonesia/index.html"
   },
   {
