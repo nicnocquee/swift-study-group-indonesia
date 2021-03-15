@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { EventRegistrationURL } from "../utils/const";
 import Modal from "../utils/Modal";
 
 function HeroHome() {
@@ -69,7 +70,7 @@ function HeroHome() {
                 <div>
                   <a
                     className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0"
-                    href="https://github.com/nicnocquee/swift-study-group-indonesia/discussions"
+                    href={EventRegistrationURL}
                   >
                     Ikutan sesi berikutnya
                   </a>

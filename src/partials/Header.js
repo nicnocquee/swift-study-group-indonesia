@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { Link } from "react-router-dom";
+import { EventRegistrationURL } from "../utils/const.js";
 import Transition from "../utils/Transition.js";
 // import Dropdown from "../utils/Dropdown";
 
@@ -64,7 +65,7 @@ function Header() {
             <ul className="flex flex-grow justify-end flex-wrap items-center">
               <li>
                 <a
-                  href="https://github.com/nicnocquee/swift-study-group-indonesia/discussions"
+                  href={EventRegistrationURL}
                   className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3"
                 >
                   <span>Ikutan</span>
