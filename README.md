@@ -1,6 +1,6 @@
-# Simple React
+# Swift Study Group Indonesia
 
-React landing page template designed by Cruip.
+Belajar bareng tiap minggu online membahas bahasa pemrograman Swift dan pengembangan aplikasi iOS/Mac.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
