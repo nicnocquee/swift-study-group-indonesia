@@ -85,7 +85,7 @@ function Header() {
           </nav>
 
           {/* Mobile menu */}
-          <div className="flex md:hidden">
+          <div className="hidden">
             {/* Hamburger button */}
             <button
               className={`hamburger ${mobileNavOpen && "active"}`}
