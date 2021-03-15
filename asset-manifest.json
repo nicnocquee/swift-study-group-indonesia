@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/swift-study-group-indonesia/static/css/main.4ad36cfe.chunk.css",
-    "main.js": "/swift-study-group-indonesia/static/js/main.b7529b26.chunk.js",
-    "main.js.map": "/swift-study-group-indonesia/static/js/main.b7529b26.chunk.js.map",
+    "main.js": "/swift-study-group-indonesia/static/js/main.b75a3db6.chunk.js",
+    "main.js.map": "/swift-study-group-indonesia/static/js/main.b75a3db6.chunk.js.map",
     "runtime-main.js": "/swift-study-group-indonesia/static/js/runtime-main.44cdef0e.js",
     "runtime-main.js.map": "/swift-study-group-indonesia/static/js/runtime-main.44cdef0e.js.map",
-    "static/js/2.0eb3a25f.chunk.js": "/swift-study-group-indonesia/static/js/2.0eb3a25f.chunk.js",
-    "static/js/2.0eb3a25f.chunk.js.map": "/swift-study-group-indonesia/static/js/2.0eb3a25f.chunk.js.map",
+    "static/js/2.0632c66e.chunk.js": "/swift-study-group-indonesia/static/js/2.0632c66e.chunk.js",
+    "static/js/2.0632c66e.chunk.js.map": "/swift-study-group-indonesia/static/js/2.0632c66e.chunk.js.map",
     "index.html": "/swift-study-group-indonesia/index.html",
-    "precache-manifest.77c4a951add2dc0099dcfb180dd745ef.js": "/swift-study-group-indonesia/precache-manifest.77c4a951add2dc0099dcfb180dd745ef.js",
+    "precache-manifest.5594c5b1910336be07309dd62d23738c.js": "/swift-study-group-indonesia/precache-manifest.5594c5b1910336be07309dd62d23738c.js",
     "service-worker.js": "/swift-study-group-indonesia/service-worker.js",
     "static/css/main.4ad36cfe.chunk.css.map": "/swift-study-group-indonesia/static/css/main.4ad36cfe.chunk.css.map",
-    "static/js/2.0eb3a25f.chunk.js.LICENSE.txt": "/swift-study-group-indonesia/static/js/2.0eb3a25f.chunk.js.LICENSE.txt",
+    "static/js/2.0632c66e.chunk.js.LICENSE.txt": "/swift-study-group-indonesia/static/js/2.0632c66e.chunk.js.LICENSE.txt",
     "static/media/studygroup-min.png": "/swift-study-group-indonesia/static/media/studygroup-min.5a273e56.png",
     "static/media/swift-study-group-indonesia.png": "/swift-study-group-indonesia/static/media/swift-study-group-indonesia.19425f81.png"
   },
   "entrypoints": [
     "static/js/runtime-main.44cdef0e.js",
-    "static/js/2.0eb3a25f.chunk.js",
+    "static/js/2.0632c66e.chunk.js",
     "static/css/main.4ad36cfe.chunk.css",
-    "static/js/main.b7529b26.chunk.js"
+    "static/js/main.b75a3db6.chunk.js"
   ]
 }
