@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/swift-study-group-indonesia/precache-manifest.3123a2e18cdb641abc86dc6ebbca0e17.js"
+  "/swift-study-group-indonesia/precache-manifest.3bc9cbb6d462238070325d7c2e16d428.js"
 );
 
 self.addEventListener('message', (event) => {

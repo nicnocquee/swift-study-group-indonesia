@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/swift-study-group-indonesia/static/css/main.4ad36cfe.chunk.css",
-    "main.js": "/swift-study-group-indonesia/static/js/main.1e8d8998.chunk.js",
-    "main.js.map": "/swift-study-group-indonesia/static/js/main.1e8d8998.chunk.js.map",
+    "main.js": "/swift-study-group-indonesia/static/js/main.6b57378a.chunk.js",
+    "main.js.map": "/swift-study-group-indonesia/static/js/main.6b57378a.chunk.js.map",
     "runtime-main.js": "/swift-study-group-indonesia/static/js/runtime-main.44cdef0e.js",
     "runtime-main.js.map": "/swift-study-group-indonesia/static/js/runtime-main.44cdef0e.js.map",
     "static/js/2.6994748a.chunk.js": "/swift-study-group-indonesia/static/js/2.6994748a.chunk.js",
     "static/js/2.6994748a.chunk.js.map": "/swift-study-group-indonesia/static/js/2.6994748a.chunk.js.map",
     "index.html": "/swift-study-group-indonesia/index.html",
-    "precache-manifest.3123a2e18cdb641abc86dc6ebbca0e17.js": "/swift-study-group-indonesia/precache-manifest.3123a2e18cdb641abc86dc6ebbca0e17.js",
+    "precache-manifest.3bc9cbb6d462238070325d7c2e16d428.js": "/swift-study-group-indonesia/precache-manifest.3bc9cbb6d462238070325d7c2e16d428.js",
     "service-worker.js": "/swift-study-group-indonesia/service-worker.js",
     "static/css/main.4ad36cfe.chunk.css.map": "/swift-study-group-indonesia/static/css/main.4ad36cfe.chunk.css.map",
     "static/js/2.6994748a.chunk.js.LICENSE.txt": "/swift-study-group-indonesia/static/js/2.6994748a.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.44cdef0e.js",
     "static/js/2.6994748a.chunk.js",
     "static/css/main.4ad36cfe.chunk.css",
-    "static/js/main.1e8d8998.chunk.js"
+    "static/js/main.6b57378a.chunk.js"
   ]
 }
