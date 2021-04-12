@@ -2,11 +2,11 @@ import React from "react";
 
 import Header from "../partials/Header";
 import HeroHome from "../partials/HeroHome";
-// import FeaturesHome from "../partials/FeaturesHome";
+import PresenterWanted from "../partials/PresenterWanted";
 import FeaturesBlocks from "../partials/FeaturesBlocks";
 // import FeaturesWorld from "../partials/FeaturesWorld";
 // import News from "../partials/News";
-// import Cta from "../partials/Cta";
+import Cta from "../partials/Cta";
 import Footer from "../partials/Footer";
 
 function Home() {
@@ -20,6 +20,9 @@ function Home() {
         {/*  Page sections */}
         <HeroHome />
         <FeaturesBlocks />
+        <PresenterWanted />
+        <div className="mt-12" />
+        <Cta />
         {/* <FeaturesHome />
         <FeaturesBlocks />
         <FeaturesWorld />
