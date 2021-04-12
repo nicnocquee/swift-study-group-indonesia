@@ -31,10 +31,10 @@ function PresenterWanted() {
         <div className="pt-12 md:pt-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Presenter Wanted</h1>
+            <h1 className="h2 mb-4">Speaker Wanted</h1>
             <p className="text-xl text-gray-600">
               “Keeping knowledge erodes power. Sharing is the fuel to your
-              growth engine”
+              growth engine.”
             </p>
           </div>
 
@@ -49,7 +49,7 @@ function PresenterWanted() {
                 <h3 className="h3 mb-3">Bagi Ilmu Tiap Minggu</h3>
                 <p className="text-xl text-gray-600">
                   Presentasikan apapun tentang Swift dan iOS development yang
-                  kalian baru pelajari ataupun sudah lama ketahui ke komunitas.
+                  kalian baru pelajari ataupun sudah lama kuasai ke komunitas.
                 </p>
               </div>
               {/* Tabs buttons */}
