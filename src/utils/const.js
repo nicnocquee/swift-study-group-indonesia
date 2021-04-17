@@ -1,2 +1,1 @@
-export const EventRegistrationURL =
-  "https://github.com/nicnocquee/swift-study-group-indonesia/discussions";
+export const EventRegistrationURL = "https://forms.gle/enxjuetHcjyN8msN9";
