@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/swift-study-group-indonesia/static/css/main.4ad36cfe.chunk.css",
-    "main.js": "/swift-study-group-indonesia/static/js/main.795580cf.chunk.js",
-    "main.js.map": "/swift-study-group-indonesia/static/js/main.795580cf.chunk.js.map",
-    "runtime-main.js": "/swift-study-group-indonesia/static/js/runtime-main.44cdef0e.js",
-    "runtime-main.js.map": "/swift-study-group-indonesia/static/js/runtime-main.44cdef0e.js.map",
-    "static/js/2.6afc9d7d.chunk.js": "/swift-study-group-indonesia/static/js/2.6afc9d7d.chunk.js",
-    "static/js/2.6afc9d7d.chunk.js.map": "/swift-study-group-indonesia/static/js/2.6afc9d7d.chunk.js.map",
-    "index.html": "/swift-study-group-indonesia/index.html",
-    "precache-manifest.c3f854e525b5f840eb201eed636cc511.js": "/swift-study-group-indonesia/precache-manifest.c3f854e525b5f840eb201eed636cc511.js",
-    "service-worker.js": "/swift-study-group-indonesia/service-worker.js",
-    "static/css/main.4ad36cfe.chunk.css.map": "/swift-study-group-indonesia/static/css/main.4ad36cfe.chunk.css.map",
-    "static/js/2.6afc9d7d.chunk.js.LICENSE.txt": "/swift-study-group-indonesia/static/js/2.6afc9d7d.chunk.js.LICENSE.txt",
-    "static/media/features-home-bg-01.png": "/swift-study-group-indonesia/static/media/features-home-bg-01.d8a5549e.png",
-    "static/media/features-home-bg-02.png": "/swift-study-group-indonesia/static/media/features-home-bg-02.db274322.png",
-    "static/media/features-home-bg-03.png": "/swift-study-group-indonesia/static/media/features-home-bg-03.677e780a.png",
-    "static/media/studygroup-min.png": "/swift-study-group-indonesia/static/media/studygroup-min.5a273e56.png",
-    "static/media/swift-study-group-indonesia.png": "/swift-study-group-indonesia/static/media/swift-study-group-indonesia.19425f81.png"
+    "main.css": "/static/css/main.4ad36cfe.chunk.css",
+    "main.js": "/static/js/main.081406b5.chunk.js",
+    "main.js.map": "/static/js/main.081406b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c203de05.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c203de05.js.map",
+    "static/js/2.0e7d95b3.chunk.js": "/static/js/2.0e7d95b3.chunk.js",
+    "static/js/2.0e7d95b3.chunk.js.map": "/static/js/2.0e7d95b3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3c2fb4bed67be81b889ffaeed0623a63.js": "/precache-manifest.3c2fb4bed67be81b889ffaeed0623a63.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4ad36cfe.chunk.css.map": "/static/css/main.4ad36cfe.chunk.css.map",
+    "static/js/2.0e7d95b3.chunk.js.LICENSE.txt": "/static/js/2.0e7d95b3.chunk.js.LICENSE.txt",
+    "static/media/features-home-bg-01.png": "/static/media/features-home-bg-01.d8a5549e.png",
+    "static/media/features-home-bg-02.png": "/static/media/features-home-bg-02.db274322.png",
+    "static/media/features-home-bg-03.png": "/static/media/features-home-bg-03.677e780a.png",
+    "static/media/studygroup-min.png": "/static/media/studygroup-min.5a273e56.png",
+    "static/media/swift-study-group-indonesia.png": "/static/media/swift-study-group-indonesia.19425f81.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.44cdef0e.js",
-    "static/js/2.6afc9d7d.chunk.js",
+    "static/js/runtime-main.c203de05.js",
+    "static/js/2.0e7d95b3.chunk.js",
     "static/css/main.4ad36cfe.chunk.css",
-    "static/js/main.795580cf.chunk.js"
+    "static/js/main.081406b5.chunk.js"
   ]
 }
