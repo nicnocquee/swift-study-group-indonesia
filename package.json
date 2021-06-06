@@ -1,8 +1,8 @@
 {
-  "name": "swift-study-group",
+  "name": "swiftid.dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nicnocquee.github.io/swift-study-group-indonesia/",
+  "homepage": "https://swiftid.dev/",
   "dependencies": {
     "@craco/craco": "^5.7.0",
     "@tailwindcss/custom-forms": "^0.2.1",
