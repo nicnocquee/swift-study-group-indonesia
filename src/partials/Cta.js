@@ -1,4 +1,5 @@
 import React from "react";
+import { EventRegistrationURL } from "../utils/const";
 
 function Cta() {
   return (
@@ -23,7 +24,7 @@ function Cta() {
               <div>
                 <a
                   className="btn text-blue-600 bg-gradient-to-r from-blue-100 to-white"
-                  href="https://t.me/joinchat/KIOFjJT6WBtiM2Vl"
+                  href={EventRegistrationURL}
                 >
                   Gabung di group
                 </a>
