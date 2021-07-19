@@ -40,13 +40,13 @@ function Quiz() {
           <p>
             <strong>Tanggal</strong>
             <br />
-            Sabtu, 24 Juli 2021
+            Ronde #1: Sabtu, 24 Juli 2021
             <br />
-            Sabtu, 31 Juli 2021
+            Ronde #2: Sabtu, 31 Juli 2021
             <br />
-            Sabtu, 7 Agustus 2021
+            Ronde #3: Sabtu, 7 Agustus 2021
             <br />
-            Sabtu, 14 Agustus 2021
+            Ronde #4: Sabtu, 14 Agustus 2021
           </p>
           <br />
           <p>
@@ -73,7 +73,7 @@ function Quiz() {
             <strong>Hadiah</strong>
             <br />
             Apple AirTag untuk tim yang mendapatkan score tertinggi di akhir
-            acara!
+            ronde 4!
           </p>
           <br />
           <p>
