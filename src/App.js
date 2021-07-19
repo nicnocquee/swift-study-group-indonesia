@@ -8,6 +8,8 @@ import Sticky from "sticky-js";
 import { focusHandling } from "cruip-js-toolkit";
 
 import Home from "./pages/Home";
+import Quiz from "./pages/Quiz";
+import PageNotFound from "./pages-old/PageNotFound";
 // import Tutorials from './pages/Tutorials';
 // import Pricing from './pages/Pricing';
 // import Blog from './pages/Blog';
@@ -18,7 +20,7 @@ import Home from "./pages/Home";
 // import SignIn from './pages/SignIn';
 // import SignUp from './pages/SignUp';
 // import ResetPassword from './pages/ResetPassword';
-// import PageNotFound from './pages/PageNotFound';
+//
 
 function App() {
   const location = useLocation();
@@ -46,6 +48,12 @@ function App() {
       <Switch>
         <Route exact path="/">
           <Home />
+        </Route>
+        <Route path="/cerdas-cermat">
+          <Quiz />
+        </Route>
+        <Route path="*">
+          <PageNotFound />
         </Route>
         {/* <Route path="/tutorials">
           <Tutorials />
