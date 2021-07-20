@@ -44,7 +44,7 @@ function HeroHome() {
         <div className="pt-32 pb-12 md:pt-40 md:pb-20">
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
-            <div className="hidden p-2 rounded-md bg-blue-500 text-white text-xl font-bold my-4">
+            <div className="p-2 rounded-md bg-blue-500 text-white text-xl font-bold my-4">
               Ikutan yuk di Cerdas Cermat Swift!{" "}
               <Link to="/cerdas-cermat" className="underline">
                 Baca info lebih lanjut disini
