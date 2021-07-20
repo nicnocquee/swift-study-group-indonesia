@@ -20,7 +20,7 @@ function Quiz() {
         <meta property="og:url" content="https://swiftid.dev/#/cerdas-cermat" />
         <meta
           property="og:image"
-          content={require("../images/facebook-quiz.jpg")}
+          content={`https://swiftid.dev${require("../images/facebook-quiz.jpg")}`}
         />
       </Helmet>
 
