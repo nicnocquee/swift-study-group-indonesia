@@ -46,34 +46,63 @@ function Quiz() {
             <br />
             Ronde #3: Sabtu, 7 Agustus 2021
             <br />
-            Ronde #4: Sabtu, 14 Agustus 2021
+            Ronde Final: Sabtu, 14 Agustus 2021
           </p>
           <br />
           <p>
             <strong>Persyaratan</strong>
-            <br />✅ Gabung di{" "}
-            <a
-              className=" font-bold underline"
-              href="https://forms.gle/enxjuetHcjyN8msN9"
-            >
-              Swift Study Group Indonesia
-            </a>
-            . (Kalau belum)
-            <br />✅ Daftarkan tim kamu di{" "}
-            <a
-              className=" font-bold underline"
-              href="https://forms.gle/W38F42HADkse6hFEA"
-            >
-              sini
-            </a>
-            . (Wajib 2 orang per tim)
+            <span className="block text-left">
+              <span role="img" aria-label="checkmark">
+                ✅
+              </span>{" "}
+              Gabung di{" "}
+              <a
+                className=" font-bold underline"
+                href="https://forms.gle/enxjuetHcjyN8msN9"
+              >
+                Swift Study Group Indonesia
+              </a>
+              . (Kalau belum)
+              <br />
+              <span role="img" aria-label="checkmark">
+                ✅
+              </span>{" "}
+              Daftarkan tim kamu di{" "}
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                className=" font-bold underline"
+                href="https://forms.gle/W38F42HADkse6hFEA"
+              >
+                sini
+              </a>
+              . (Wajib 2 orang per tim)
+            </span>
+          </p>
+          <br />
+          <p>
+            <strong>Format</strong>
+            <span className="block text-left">
+              <span role="img" aria-label="checkmark">
+                ✅
+              </span>{" "}
+              Tiga ronde pertama quiz cepet2an <br />
+              <span role="img" aria-label="checkmark">
+                ✅
+              </span>{" "}
+              4 tim dengan score tertinggi masuk ronde final.
+            </span>
           </p>
           <br />
           <p>
             <strong>Hadiah</strong>
-            <br />
-            Apple AirTag untuk tim yang mendapatkan score tertinggi di akhir
-            ronde 4!
+            <span className="block text-left">
+              🏷 Apple AirTag untuk tim juara!
+              <br />
+              👕 Special T-shirt untuk 4 tim di Final
+              <br />
+              👕 Special T-shirt untuk 1 tim dipilih acak
+            </span>
           </p>
           <br />
           <p>
@@ -105,6 +134,17 @@ function Quiz() {
               Nico Prananta
             </a>
           </p>
+          <br />
+          <div className="mb-4 mt-2">
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block bg-blue-500 text-white text-center p-4 rounded-md font-bold w-full"
+              href="https://forms.gle/W38F42HADkse6hFEA"
+            >
+              Daftar sekarang
+            </a>
+          </div>
         </div>
         <img
           style={{ zIndex: -100 }}
