@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbade3d01941f3e297c60eb671105c41",
+    "revision": "bf0d502dfd0fa016972605f00814b74d",
     "url": "/index.html"
   },
   {
-    "revision": "e40cb5eb279bf334d395",
+    "revision": "484cb5ab665927d9d17b",
     "url": "/static/css/main.ff9896a8.chunk.css"
   },
   {
-    "revision": "79ed400aa87d483b3976",
-    "url": "/static/js/2.5e5b8f47.chunk.js"
+    "revision": "386e439d72d764b01e8d",
+    "url": "/static/js/2.1fbfc7db.chunk.js"
   },
   {
     "revision": "e8a68bcedd366a504ba48ef02a101d37",
-    "url": "/static/js/2.5e5b8f47.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1fbfc7db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e40cb5eb279bf334d395",
-    "url": "/static/js/main.b299df32.chunk.js"
+    "revision": "484cb5ab665927d9d17b",
+    "url": "/static/js/main.49900406.chunk.js"
   },
   {
     "revision": "49d13a60d00c53a2f87c",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "44d9989bf3d1dc9c9b9b9595fd0a26e4",
     "url": "/static/media/azis.44d9989b.png"
+  },
+  {
+    "revision": "1270e259f62c6310141cbe50d7d00070",
+    "url": "/static/media/facebook-quiz.1270e259.jpg"
   },
   {
     "revision": "d8a5549eb493ffb4a62944883df64651",
