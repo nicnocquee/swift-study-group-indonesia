@@ -2,10 +2,28 @@ import React from "react";
 
 import Header from "../partials/Header";
 import Footer from "../partials/Footer";
+import { Helmet } from "react-helmet";
 
 function Quiz() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden px-2">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Cerdas Cermat Swift</title>
+        <meta
+          name="description"
+          content="Cerdas Cermat Menyambut Kemerdekaan RI"
+        />
+        <link rel="canonical" href="https://swiftid.dev/#/cerdas-cermat" />
+        <meta property="og:title" content="Cerdas Cermat Swift" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://swiftid.dev/#/cerdas-cermat" />
+        <meta
+          property="og:image"
+          content={require("../images/facebook-quiz.jpg")}
+        />
+      </Helmet>
+
       {/*  Site header */}
       <Header />
 

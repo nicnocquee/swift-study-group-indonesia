@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import { Switch, Route, useLocation } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 import "./css/style.scss";
 
@@ -45,6 +46,41 @@ function App() {
 
   return (
     <>
+      <Helmet>
+        <title>Swift Study Group Indonesia</title>
+        <meta
+          name="description"
+          content="Belajar bareng bahasa pemrograman Swift dan pengembangan aplikasi iOS/Mac tiap minggu online"
+        />
+        <meta property="og:title" content="Swift Study Group Indonesia" />
+        <meta
+          property="og:description"
+          content="Belajar bareng bahasa pemrograman Swift dan pengembangan aplikasi iOS/Mac tiap minggu online"
+        />
+        <meta
+          property="og:image"
+          content="https://swiftid.dev/ogimage-min.png"
+        />
+        <meta property="og:url" content="https://swiftid.dev" />
+
+        <meta name="twitter:title" content="Swift Study Group Indonesia" />
+        <meta
+          name="twitter:description"
+          content="Belajar bareng bahasa pemrograman Swift dan pengembangan aplikasi iOS/Mac tiap minggu online"
+        />
+        <meta
+          name="twitter:image"
+          content="https://swiftid.dev/ogimage-min.png"
+        />
+        <meta name="twitter:card" content="summary_large_image" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Bangers&display=swap"
+          rel="stylesheet"
+        />
+      </Helmet>
       <Switch>
         <Route exact path="/">
           <Home />
