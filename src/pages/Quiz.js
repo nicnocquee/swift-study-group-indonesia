@@ -47,7 +47,7 @@ function Quiz() {
           }}
         >
           <p>
-            Uji pengetahuan iOS development kamu di lomba Cerdas Cermat Swift!
+            Uji pengetahuan Apple development (iOS/Mac) kamu di lomba Cerdas Cermat Swift!
           </p>
           <br />
           <p>
