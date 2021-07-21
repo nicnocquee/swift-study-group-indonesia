@@ -81,20 +81,6 @@ function Quiz() {
                 Swift Study Group Indonesia
               </a>
               . (Kalau belum)
-              <br />
-              <span role="img" aria-label="checkmark">
-                ✅
-              </span>{" "}
-              Daftarkan tim kamu di{" "}
-              <a
-                target="_blank"
-                rel="noopener noreferrer"
-                className=" font-bold underline"
-                href="https://forms.gle/W38F42HADkse6hFEA"
-              >
-                sini
-              </a>
-              . (Wajib 2 orang per tim)
             </span>
           </p>
           <br />
@@ -108,18 +94,18 @@ function Quiz() {
               <span role="img" aria-label="checkmark">
                 ✅
               </span>{" "}
-              4 tim dengan score tertinggi masuk ronde final.
+              4 orang dengan score tertinggi masuk ronde final.
             </span>
           </p>
           <br />
           <p>
             <strong>Hadiah</strong>
             <span className="block text-left">
-              🏷 Apple AirTag untuk tim juara!
+              🏷 Apple AirTag untuk juara 1!
               <br />
-              👕 Special T-shirt untuk 4 tim di Final
+              👕 Special T-shirt untuk 4 orang di Final
               <br />
-              👕 Special T-shirt untuk 1 tim dipilih acak
+              👕 Special T-shirt untuk beberapa orang dipilih acak
             </span>
           </p>
           <br />
